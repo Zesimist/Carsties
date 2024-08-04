@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcutionService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3235f137474a3b7ae0091d8dde784c7593464b00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39cc4eac9848bff1bb3f967c9585d1862fdb6b3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcutionService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcutionService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
