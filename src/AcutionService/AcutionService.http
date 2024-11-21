@@ -1,0 +1,6 @@
+@AcutionService_HostAddress = http://localhost:5150
+
+GET {{AcutionService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
