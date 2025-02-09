@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\Carsties\\src\\searchservice\\SearchService.csproj": {}
+    "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\Carsties\\src\\SearchService\\SearchService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\Carsties\\src\\searchservice\\SearchService.csproj": {
+    "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\Carsties\\src\\SearchService\\SearchService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\Carsties\\src\\searchservice\\SearchService.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\Carsties\\src\\SearchService\\SearchService.csproj",
         "projectName": "SearchService",
-        "projectPath": "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\Carsties\\src\\searchservice\\SearchService.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\Carsties\\src\\SearchService\\SearchService.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\Carsties\\src\\searchservice\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\dotnet\\Working Treee\\Carsties\\src\\SearchService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             },
             "MongoDB.Entities": {
               "target": "Package",
